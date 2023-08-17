@@ -1,0 +1,4 @@
+#Thu Aug 03 22:32:43 BRT 2023
+base.0=/Users/larissaandrade/StudioProjects/app_nubnak/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
